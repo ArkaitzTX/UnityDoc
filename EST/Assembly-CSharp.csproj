@@ -100,6 +100,9 @@
     <Compile Include="Assets\Plugings\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
     <Compile Include="Assets\Plugings\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
     <Compile Include="Assets\Plugings\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
+    <Compile Include="Assets\Componentes.cs" />
+    <Compile Include="Assets\Metodos.cs" />
+    <Compile Include="Assets\Aplicaccion.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Plugings\TextMesh Pro\Shaders\TMPro.cginc" />
