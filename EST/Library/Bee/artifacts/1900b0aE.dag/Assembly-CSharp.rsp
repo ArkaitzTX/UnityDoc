@@ -350,6 +350,7 @@
 "Assets/Aplicaccion.cs"
 "Assets/Componentes.cs"
 "Assets/Escenas.cs"
+"Assets/Genericos.cs"
 "Assets/Guardar.cs"
 "Assets/InputPC.cs"
 "Assets/Instanciar.cs"
