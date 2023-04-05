@@ -68,6 +68,7 @@
     <Compile Include="Assets\Plugings\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
     <Compile Include="Assets\Plugings\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
     <Compile Include="Assets\Plugings\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
+    <Compile Include="Assets\Genericos.cs" />
     <Compile Include="Assets\Plugings\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
     <Compile Include="Assets\NumerosMathf.cs" />
     <Compile Include="Assets\Lista.cs" />
@@ -103,7 +104,7 @@
     <Compile Include="Assets\Plugings\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
     <Compile Include="Assets\Plugings\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
     <Compile Include="Assets\Plugings\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
-    <Compile Include="Assets\Genericos.cs" />
+    <Compile Include="Assets\Tuplas.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Plugings\TextMesh Pro\Shaders\TMPro.cginc" />
