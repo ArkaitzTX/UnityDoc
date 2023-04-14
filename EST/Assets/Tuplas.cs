@@ -18,5 +18,9 @@ public class Tuplas : MonoBehaviour
 
         var tupla = (nombre: "manolo", edad: 12);
         Debug.Log(tupla);
+
+        (string nombre, int edad) tuplaTipo = ("manolo", 12);
+        Debug.Log("El nombre es: " + tuplaTipo.nombre);
+
     }
 }

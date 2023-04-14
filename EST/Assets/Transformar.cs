@@ -54,6 +54,16 @@ public class Transformar : MonoBehaviour
         //objeto.Rotate(new Vector3(0,1,0), 45, Space.World);
         //objeto.Rotate(Vector3.up, 45, Space.World);
 
+        /*
+         * LookRotation => Te da la rotacion necesaria para apunta al Vector3 que le pasas como parametro
+         * Slerp => Le pasas el Vector3 de inicio, el de destino y la velocida del giro y entonces te gira a la velocidad especificada
+         * 
+        transform.rotation = Quaternion.Slerp(
+                transform.rotation,
+                Quaternion.LookRotation(new Vector3(axis.z, 0, axis.x)),
+                velocidadGiro / 100
+        );
+        /*
 
 
         /*

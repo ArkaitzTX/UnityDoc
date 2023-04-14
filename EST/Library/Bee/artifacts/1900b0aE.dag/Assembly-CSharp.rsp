@@ -394,6 +394,7 @@
 "Assets/Plugings/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs"
 "Assets/Plugings/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs"
 "Assets/Plugings/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs"
+"Assets/RayCast3d.cs"
 "Assets/Transformar.cs"
 "Assets/Tuplas.cs"
 -langversion:9.0
