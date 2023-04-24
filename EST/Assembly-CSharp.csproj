@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="Assets\Plugings\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
     <Compile Include="Assets\Plugings\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
+    <Compile Include="Assets\RayCast3d.cs" />
     <Compile Include="Assets\Plugings\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
     <Compile Include="Assets\Plugings\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
     <Compile Include="Assets\Objetos.cs" />
@@ -105,7 +106,6 @@
     <Compile Include="Assets\Plugings\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
     <Compile Include="Assets\Plugings\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
     <Compile Include="Assets\Plugings\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
-    <Compile Include="Assets\RayCast3d.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Plugings\TextMesh Pro\Shaders\TMPro.cginc" />
